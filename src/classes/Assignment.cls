@@ -103,6 +103,7 @@ public without sharing class Assignment {
     public void varScopeTest() {
         String d = '디';
         System.debug(c);
-        System.debug(d);
-    }
+        System.debug(d);//테스트주석
 }
+
+//git test용 주석이에용
